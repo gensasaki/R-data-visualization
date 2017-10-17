@@ -1,0 +1,101 @@
+rank,company,market cap,country
+1,Apple Inc.,"$541,060 ",UNITED STATES
+2,Alphabet Inc,"$505,051 ",UNITED STATES
+3,Microsoft Corporation,"$422,107 ",UNITED STATES
+4,Exxon Mobil Corporation,"$394,426 ",UNITED STATES
+5,Berkshire Hathaway Inc.,"$359,959 ",UNITED STATES
+6,"Amazon.com, Inc.","$347,001 ",UNITED STATES
+7,Johnson & Johnson,"$338,329 ",UNITED STATES
+8,Facebook Incorporation,"$334,220 ",UNITED STATES
+9,General Electric Company,"$302,353 ",UNITED STATES
+10,AT&T Inc.,"$264,051 ",UNITED STATES
+11,China Mobile Limited,"$246,115 ",HONG KONG
+12,Nestle S.A.,"$244,527 ",SWITZERLAND
+13,Wells Fargo & Company,"$242,226 ",UNITED STATES
+14,JPMorgan Chase & Co.,"$231,818 ",UNITED STATES
+15,Industrial And Commercial Bank Of China Ltd,"$230,243 ",CHINA
+16,"Wal-Mart Stores, Inc.","$229,603 ",UNITED STATES
+17,Procter & Gamble Co,"$228,946 ",UNITED STATES
+18,Verizon Communications,"$227,620 ",UNITED STATES
+19,Tencent Holdings Limited,"$224,117 ",CHINA
+20,Pfizer Inc.,"$223,005 ",UNITED STATES
+21,Roche Holding Aktiengesellschaft,"$221,768 ",SWITZERLAND
+22,Royal Dutch Shell Plc,"$221,081 ",NETHERLANDS
+23,PetroChina Co Ltd,"$201,983 ",CHINA
+24,Anheuser-Busch Inbev Sa,"$201,821 ",BELGIUM
+25,Chevron Corporation,"$201,720 ",UNITED STATES
+26,The Coca-Cola Co,"$197,404 ",UNITED STATES
+27,Novartis AG,"$194,843 ",SWITZERLAND
+28,Samsung Electronics Company Limited,"$191,853 ",KOREA (SOUTH)
+29,China Construction Bank Corp,"$190,298 ",CHINA
+30,Visa Incorporation,"$186,732 ",UNITED STATES
+31,Oracle Corporation,"$172,552 ",UNITED STATES
+32,Home Depot Inc,"$167,667 ",UNITED STATES
+33,Intel Corporation,"$165,601 ",UNITED STATES
+34,Toyota Motor Corporation,"$165,143 ",JAPAN
+35,"Merck & Co. , Inc.","$165,057 ",UNITED STATES
+36,Comcast Corporation,"$162,331 ",UNITED STATES
+37,Walt Disney Co,"$161,920 ",UNITED STATES
+38,Philip Morris International Incorporation,"$160,758 ",UNITED STATES
+39,Pepsico Inc.,"$158,020 ",UNITED STATES
+40,International Business Machines Corporation,"$153,383 ",UNITED STATES
+41,Agricultural Bank Of China Limited,"$151,538 ",CHINA
+42,Cisco Systems Incorporated,"$149,986 ",UNITED STATES
+43,Bank of China Limited,"$146,581 ",CHINA
+44,Novo Nordisk As,"$143,857 ",DENMARK
+45,Bank of America Corporation,"$140,314 ",UNITED STATES
+46,Taiwan Semiconductor Manufacturing Company Limited,"$137,658 ",TAIWAN
+47,"Altria Group, Inc.","$135,795 ",UNITED STATES
+48,UnitedHealth Group Incorporated,"$134,377 ",UNITED STATES
+49,Unilever N.V.,"$132,087 ",NETHERLANDS
+50,Citigroup Inc.,"$130,105 ",UNITED STATES
+51,Bristol-Myers Squibb Company,"$126,236 ",UNITED STATES
+52,HSBC Holdings plc,"$125,467 ",UNITED KINGDOM
+53,Medtronic PLC,"$123,617 ",UNITED STATES
+54,Amgen Inc.,"$122,659 ",UNITED STATES
+55,British American Tobacco p.l.c.,"$119,862 ",UNITED KINGDOM
+56,"Gilead Sciences, Inc.","$115,429 ",UNITED STATES
+57,Total SA,"$113,842 ",FRANCE
+58,BP Plc,"$113,290 ",UNITED KINGDOM
+59,Schlumberger Limited,"$110,329 ",UNITED STATES
+60,3M Company,"$110,022 ",UNITED STATES
+61,Sanofi S.A.,"$109,026 ",FRANCE
+62,McDonald's Corporation,"$108,505 ",UNITED STATES
+63,L'Oreal,"$108,153 ",FRANCE
+64,Kraft Heinz Co,"$108,050 ",UNITED STATES
+65,GlaxoSmithKline plc,"$106,851 ",UNITED KINGDOM
+66,Inditex,"$105,926 ",SPAIN
+67,CVS Health Corp,"$104,277 ",UNITED STATES
+68,Akelius Residential Property AB publ,"$102,737 ",SWEDEN
+69,Abbvie Inc,"$102,411 ",UNITED STATES
+70,NTT DoCoMo Incorporated,"$101,105 ",JAPAN
+71,"Mastercard, Inc.","$100,205 ",UNITED STATES
+72,Commonwealth Bank of Australia,"$98,345 ",AUSTRALIA
+73,"United Parcel Service, Inc.","$98,151 ",UNITED STATES
+74,Nike Inc.,"$97,495 ",UNITED STATES
+75,Nippon Telegraph and Telephone Corporation,"$96,445 ",JAPAN
+76,Allergan plc,"$95,927 ",IRELAND
+77,SABMiller plc,"$95,407 ",UNITED KINGDOM
+78,Sap Ag,"$94,443 ",GERMANY
+79,Royal Bank of Canada,"$92,172 ",CANADA
+80,China Life Insurance Co Ltd,"$91,677 ",CHINA
+81,Ambev S.A,"$91,118 ",BRAZIL
+82,Honeywell International Incorporated,"$90,867 ",UNITED STATES
+83,Walgreens Boots Alliance Inc,"$89,259 ",UNITED STATES
+84,Ping An Insurance (Group) Company Of China Ltd,"$89,089 ",CHINA
+85,Eli Lilly and Company,"$88,602 ",UNITED STATES
+86,United Technologies Corporation,"$88,289 ",UNITED STATES
+87,China Petroleum & Chemical Corporation,"$86,316 ",CHINA
+88,Bayer AG,"$85,982 ",GERMANY
+89,Siemens AG,"$84,614 ",GERMANY
+90,Boeing Co,"$84,334 ",UNITED STATES
+91,Starbucks Corporation,"$84,100 ",UNITED STATES
+92,BHP Billiton Limited,"$82,428 ",AUSTRALIA
+93,Toronto-Dominion Bank,"$81,346 ",CANADA
+94,Vodafone Group public limited company,"$80,488 ",UNITED KINGDOM
+95,Qualcomm Incorporated,"$80,423 ",UNITED STATES
+96,Celgene Corporation,"$79,668 ",UNITED STATES
+97,Union Pacific Corporation,"$79,040 ",UNITED STATES
+98,Deutsche Telekom Ag,"$78,527 ",GERMANY
+99,Lockheed Martin Corporation,"$78,238 ",UNITED STATES
+100,LVMH Moet Hennessy Louis Vuitton SE,"$77,953 ",FRANCE
